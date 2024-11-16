@@ -1,5 +1,5 @@
 
-# THRESHOLDING
+# EX08 THRESHOLDING
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
